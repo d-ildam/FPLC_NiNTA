@@ -6,7 +6,7 @@ https://ildamapp.shinyapps.io/FPLC_NiNTA/
 
 If you would like to run the app from github, please make sure that you have them installed before proceeding:
 
-install.packages(c(shiny, readxl, ggplot2, ggpubr, tidyverse, shinythemes, shinyFiles, rsconnect))
+install.packages(c("shiny", "readxl", "ggplot2", "ggpubr", "tidyverse", "shinythemes", "shinyFiles", "rsconnect"))
 
 
 After all the packages are installed, run the lines below in the RStudio Console or from a script. It will download the app and display it in a appropriate browser window:
