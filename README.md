@@ -1,4 +1,6 @@
 # Introduction to FPLC NiNTA Plots
+[![DOI](https://zenodo.org/badge/809977276.svg)](https://zenodo.org/doi/10.5281/zenodo.11458405)
+
 This app shows publication ready graphs of Nickel-NTA protein purification from AKTAprime plus FPLC system. If you wish to view the app online, link is accessible here:
 
 https://ildamapp.shinyapps.io/FPLC_NiNTA/
